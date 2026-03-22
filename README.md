@@ -6,7 +6,7 @@
   Build a C program to input a student’s marks in three subjects (Math, Science, and English). Calculate the average marks and determine the grade using nested if-else statements with safe floating-point comparisons based on the following grading criteria:
     
   A: 90 and above
-  
+   
   B: 75 to 89.99
   
   C: 50 to 74.99
